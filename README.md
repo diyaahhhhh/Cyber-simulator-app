@@ -5,7 +5,7 @@ A Python-based mini-game where players take on spy missions like:
 - 🔐Password cracking
 - 📡 Signal Tracing
 
-NOTE: **🔧Under major editing!**
+NOTE: **🔧Under major editing, may transfrom into a website🧍‍♀️**
 
 ## How to Run
 ```bash
