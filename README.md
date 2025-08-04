@@ -8,5 +8,4 @@ A Python-based mini-game where players take on spy missions like:
 NOTE: **🔧Under major editing, may or may not transfrom into a website🧍‍♀️IDK**
 
 ## How to Run
-```bash
-python simulator.py
+   Copy-paste it in your Python IDE bruh🧍‍♀️
