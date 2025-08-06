@@ -6,6 +6,3 @@ A Python-based mini-game where players take on spy missions like:
 - 📡 Signal Tracing
 
 NOTE: **🔧Under major editing, may or may not transfrom into a website🧍‍♀️IDK**
-
-## How to Run
-   Copy-paste it in your Python IDE bruh🧍‍♀️
